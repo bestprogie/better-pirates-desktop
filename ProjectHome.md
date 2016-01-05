@@ -1,0 +1,1 @@
+Better Pirates Desktop is an application designed to assist players with a variety of tasks associated with Kixeye's Battle Pirates game. Initial versions will focus on Blueprint Tracking and other features may be added in time.
